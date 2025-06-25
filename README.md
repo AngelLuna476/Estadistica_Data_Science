@@ -1,8 +1,10 @@
-# Estadistica_Data_Science
+<h1 align="center">Estadística en Data Science</h1>
 
-En la etapa de Estadística, se presentaron los conceptos fundamentales que son esenciales para el análisis de datos. 
-Se aprendió sobre estadísticas descriptivas, como medidas de tendencia central (media, mediana y moda) y dispersión (varianza y desviación estándar). 
-Este paso proporcionó la base matemática necesaria para interpretar correctamente los datos y respaldar la toma de decisiones segura.
+<p align="center"><strong><em>Programa de especialización de la formación de Data Science por parte de ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
+
+En la etapa de Estadística, se presentan los conceptos fundamentales que son esenciales para el análisis de datos. 
+Se aprende sobre estadísticas descriptivas, como medidas de tendencia central (media, mediana y moda) y dispersión (varianza y desviación estándar). 
+Este paso proporciona la base matemática necesaria para interpretar correctamente los datos y respaldar la toma de decisiones segura.
 
 ---
 
