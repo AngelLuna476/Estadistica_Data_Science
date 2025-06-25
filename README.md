@@ -6,6 +6,8 @@ Este paso proporcionó la base matemática necesaria para interpretar correctame
 
 ---
 
+## Lo que se llevo a cabo en este curso fue:
+
 > * Aprender a interpretar y comprender las estadísticas que encuentras en tu día a día, desde noticias hasta informes.
 > * Descubrir la diferencia entre media, mediana y moda, y cómo elegir la medida adecuada para cada situación.
 > * Clasificar y organizar diferentes tipos de datos para prepararlos para el análisis.
@@ -15,3 +17,9 @@ Este paso proporcionó la base matemática necesaria para interpretar correctame
 > * Entender que es nivel e intervalo de confianza.
 > * Conocer técnicas de muestreo.
 > * Calcular el tamaño de la muestra.
+
+---
+
+## Licencias:
+
+- Esta libreta está basada en contenido educativo de Alura Latam en conjunto con Oracle Next Education y es utilizado con fines de aprendizaje personal.
